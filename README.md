@@ -28,8 +28,7 @@ Estou me capacitando na área de Qualidade de Software e Teste.
   <a href="https://www.linkedin.com/in/rhayanaramuniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/van.everton?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/rhayanara/rhayanara/blob/output/dist/github-contribution-grid-snake.svg)
-  
+
 </div>
   
   
